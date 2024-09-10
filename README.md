@@ -1,1 +1,1 @@
-Hello! This is my game
+Hello! This is my game.
